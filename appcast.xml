@@ -3,6 +3,14 @@
     <channel>
         <title>Flynn</title>
         <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 02 Aug 2026 17:57:41 -0600</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/WebSolutionsGroup/Flynn-MacOS/releases/download/v1.0.0/Flynn-1.0.0.zip" length="10209287" type="application/octet-stream" sparkle:edSignature="0aNpzyNbeP/omPKCfjdrbXmRYBZBhG1QitMFIYQG/H27/SratzoG5upQ9YcW2vQAwBRI2SHy231RQgpigDOQBA=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Sun, 02 Aug 2026 06:58:40 -0600</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/WebSolutionsGroup/Flynn-MacOS/releases/download/v0.3.5/Flynn-0.3.5.zip" length="3803687" type="application/octet-stream" sparkle:edSignature="QyAQBjD5LEO0Jgv/NZw/pCXSi72KQHl43K19+otP6ajcQIOhQRyFzkSiy/0gcGEdgMLxs2SoaVpJ766ZwiryBg=="/>
-        </item>
-        <item>
-            <title>0.3.4</title>
-            <pubDate>Mon, 27 Jul 2026 14:57:07 -0500</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/WebSolutionsGroup/Flynn-MacOS/releases/download/v0.3.4/Flynn-0.3.4.zip" length="3803715" type="application/octet-stream" sparkle:edSignature="4fd/2Dn9GI0m/Gx42COnd/uDWIWNLs5zXnR77jszdHYDMFnpZJcEqQ8cS5ubancVJFqdc6fh0VhXzaWRWJQgCw=="/>
         </item>
         <item>
             <title>0.2.0</title>
